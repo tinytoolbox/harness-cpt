@@ -53,8 +53,6 @@
             'show_ui'       => true,
             'supports'      => array(
                 'title',
-                'author',
-                'comments',
             ),
         ) );
     }
